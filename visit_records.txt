@@ -1,0 +1,34 @@
+VisitID, VisitorName, RelationshipToInmate, InmateName, VisitDateAndTime, VisitStatus
+11150101, John Dela Cruz, Brother, Vanessa Q. Santos, 11/15/24 09:00, Approved
+11150102, Maria Gonzales, Sister, Erika R. Garcia, 11/15/24 10:00, Approved
+11150103, Paul Soriano, Husband, Nicole T. Suarez, 11/15/24 11:30, Approved
+11150104, Anne Lim, Friend, Hannah M. Mendoza, 11/15/24 13:00, Denied
+11150105, Juan D Reyes, Cousin, Isabel V. Reyes, 11/15/24 14:30, Approved
+11160101, Carla David, Sister, Angela S. David, 11/16/24 09:00, Approved
+11160102, Vincent M Mendoza, Brother, Nicole T. Suarez, 11/16/24 10:00, Approved
+11160103, Karen R Santos, Mother, Vanessa Q. Santos, 11/16/24 11:00, Denied
+11160104, Rina I Cruz, Daughter, Erika R. Garcia, 11/16/24 13:30, Approved
+11160105, Robert Suarez, Father, Nicole T. Suarez, 11/16/24 15:00, Approved
+11170101, James S Flores, Uncle, Hannah M. Mendoza, 11/17/24 09:00, Approved
+11170102, Angela Lim, Sister, Vanessa Q. Santos, 11/17/24 10:30, Approved
+11170103, Brian S Garcia, Son, Erika R. Garcia, 11/17/24 12:00, Approved
+11170104, Susan Mendoza, Cousin, Hannah M. Mendoza, 11/17/24 13:30, Approved
+11170105, Kevin G Reyes, Nephew, Isabel V. Reyes, 11/17/24 14:30, Approved
+11180101, Daniel Santos, Brother, Vanessa Q. Santos, 11/18/24 08:30, Approved
+11180102, Christina Suarez, Sister, Nicole T. Suarez, 11/18/24 10:00, Denied
+11180103, Clara Mendoza, Aunt, Hannah M. Mendoza, 11/18/24 11:30, Approved
+11180104, Ricardo Garcia, Husband, Erika R. Garcia, 11/18/24 13:00, Approved
+11180105, Angela Reyes, Niece, Isabel V. Reyes, 11/18/24 15:00, Approved
+11190101, Michael Santos, Cousin, Vanessa Q. Santos, 11/19/24 09:00, Approved
+11190102, Jessica Garcia, Wife, Erika R. Garcia, 11/19/24 10:30, Approved
+11190103, Eric Mendoza, Brother, Hannah M. Mendoza, 11/19/24 12:00, Approved
+11190104, Armaine Villanueva, Mother, Nicole T. Suarez, 11/19/24 13:30, Approved
+11190105, Harold David, Cousin, Angela S. David, 11/19/24 14:30, Approved
+11200101, Rachel Santos, Daughter, Vanessa Q. Santos, 11/20/24 09:00, Approved
+11200102, Leo Garcia, Husband, Erika R. Garcia, 11/20/24 10:30, Approved
+11200103, Ryan Usher Lim, Niece, Hannah M. Mendoza, 11/20/24 12:00, Approved
+11200104, kyla Bautista, Daughter, Isabel V. Reyes, 11/20/24 14:00, Approved
+11210101, Victor Suarez, Nephew, Nicole T. Suarez, 11/21/24 09:30, Approved
+1121202401, Ryan Usher Lim, Brother, Anne C. Garcia, 11/21/24 10:11, Approved
+1121202402, Ryan Usher Lim, Brother, Anne C. Garcia, 11/21/24 10:12, Approved
+1121202403, , , Anne C. Garcia, 11/21/24 16:17, Unauthorized

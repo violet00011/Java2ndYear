@@ -1,0 +1,62 @@
+<dependencies>
+    <!-- iText Kernel for PDF generation -->
+    <dependency>
+        <groupId>com.itextpdf</groupId>
+        <artifactId>kernel</artifactId>
+        <version>7.2.6</version>
+    </dependency>
+
+    <!-- iText Layout for working with documents -->
+    <dependency>
+        <groupId>com.itextpdf</groupId>
+        <artifactId>layout</artifactId>
+        <version>7.2.6</version>
+    </dependency>
+
+    <!-- iText Commons (optional helper lib) -->
+    <dependency>
+        <groupId>com.itextpdf</groupId>
+        <artifactId>commons</artifactId>
+        <version>7.2.6</version>
+    </dependency>
+
+    <!-- iText IO (used internally by Kernel/Layout) -->
+    <dependency>
+        <groupId>com.itextpdf</groupId>
+        <artifactId>io</artifactId>
+        <version>7.2.6</version>
+    </dependency>
+
+    <!-- SLF4J (for logging, required by iText) -->
+    <dependency>
+        <groupId>org.slf4j</groupId>
+        <artifactId>slf4j-api</artifactId>
+        <version>1.7.30</version>
+    </dependency>
+    <dependency>
+        <groupId>org.slf4j</groupId>
+        <artifactId>slf4j-simple</artifactId>
+        <version>1.7.30</version>
+    </dependency>
+
+    <!-- JavaFX Controls -->
+    <dependency>
+        <groupId>org.openjfx</groupId>
+        <artifactId>javafx-controls</artifactId>
+        <version>17.0.2</version>
+    </dependency>
+</dependencies>
+
+
+<build>
+    <plugins>
+        <plugin>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-maven-plugin</artifactId>
+            <version>0.0.6</version>
+            <configuration>
+                <mainClass>prisonvisitation.REPORTS</mainClass>
+            </configuration>
+        </plugin>
+    </plugins>
+</build>
